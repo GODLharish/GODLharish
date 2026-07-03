@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harish, a Backend Maestro currently in my 2nd year of B.Tech CSE (Data Science).<br><br>I architect robust and scalable digital infrastructure, specializing in API design and cloud-native solutions.<br><br>My focus is on crafting efficient systems using Python, Java, and the entire DevOps stack (Docker, K8s, AWS).<br><br>I'm passionate about solving complex challenges related to data optimization and system resilience.<br><br>Let's build reliable software that scales as gracefully as a Ghibli flight! 🚀
+I'm Harish, a Backend Maestro currently in my Final year of B.Tech CSE.<br><br>I architect robust and scalable digital infrastructure, specializing in API design and cloud-native solutions.<br><br>My focus is on crafting efficient systems using Python, Java, and the entire DevOps stack (Docker, K8s, AWS).<br><br>I'm passionate about solving complex challenges related to data optimization and system resilience.<br><br>Let's build reliable software that scales as gracefully as a Ghibli flight! 🚀
 
 
 # 💻 Tech Stack:
